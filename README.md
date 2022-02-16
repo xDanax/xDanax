@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xDanax
+- 👀 I’m very new to coding but I'm loving it so far
+- 🌱 I’m currently learning Python

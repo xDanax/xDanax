@@ -5,7 +5,7 @@
 ## Skilled in:
 `SQL` `R` `PYTHON` `EXCEL` `TABLEAU`
 
-## Data Analytics Projects 🌱
+## Data Analysis Projects 🌱
 - [Customer Spending Analysis](https://github.com/xDanax/customer-spend-analysis/blob/main/README.md): Uncovered business insights about customer purchasing patterns, spending behavior, and segment profitability using SQL to determine which customer segments should be targeted for upsell campaigns and which product categories yield the strongest revenue and profit potential.
 
 ## Connect with me 🌍

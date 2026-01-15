@@ -6,7 +6,7 @@
 `SQL` `R` `PYTHON` `EXCEL` `TABLEAU`
 
 ## Data Analysis Projects 🌱
-- [Customer Spending Analysis](https://github.com/xDanax/customer-spend-analysis/blob/main/README.md): Identified the most profitable customer segments and product categories to inform targeted upsell strategies by analyzing customer purchasing behaviour using SQL.
+- [Customer Spending Analysis](https://github.com/xDanax/customer-spend-analysis/blob/main/README.md): Identified the most profitable customer segments and products to inform targeted upsell strategies by analyzing customer purchasing behaviour using SQL.
   
   Tools: `SQL` `SQLite`
 

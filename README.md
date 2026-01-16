@@ -12,7 +12,7 @@
 
 - [Coffe Sales Data Analysis](https://github.com/xDanax/Coffee-Sales-Analysis/blob/main/README.md):
 
-  Tools: `Excel` `Powerpoint`
+  Tools: `Excel`
 
 ## Connect with me 🌍
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danalee-smith/)

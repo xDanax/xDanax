@@ -12,7 +12,7 @@
 
 - [Coffe Sales Data Analysis](https://github.com/xDanax/Coffee-Sales-Analysis/blob/main/README.md): Analyzed multi-year coffee sales data using Excel to identify loyalty program efficiency and top-performing products. Built an interactive dashboard with filters for roast type, package size, loyalty status, and dates to uncover useful insights and deliver recommendations for revenue growth and customer retention.
 
-  Tools: `Excel`
+  Tools: `Excel` `XLOOKUP` `INDEX MATCH`
 
 ## Connect with me 🌍
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danalee-smith/)

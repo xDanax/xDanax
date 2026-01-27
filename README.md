@@ -3,7 +3,7 @@
 - I'm interested in marketing and data analytics, and how data can drive better decisions. 🎯
 
 ## Skilled in:
-`SQL` `R` `PYTHON` `EXCEL` `TABLEAU`
+`SQL` `R` `PYTHON` `EXCEL` `TABLEAU` `SAS`
 
 ## Data Analysis Projects 🌱
 - [Customer Spending Analysis](https://github.com/xDanax/customer-spend-analysis/blob/main/README.md): Identified the most profitable customer segments and products to inform and recommend targeted upsell strategies by analyzing customer purchasing behaviour using SQL.

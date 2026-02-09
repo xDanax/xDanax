@@ -8,7 +8,7 @@
 ## Projects + Roles 🌱
 
 - **Data Engineer**
--> Built an automated Python pipeline that ingests raw U.S. flight delay data, applies cleaning and transformation logic, and loads analytics-ready tables into a relational database for downstream analysis.
+-> [Flight Delay Automated Pipeline](https://github.com/xDanax/flight-delay-pipeline): Built an automated Python pipeline that ingests raw U.S. flight delay data, applies cleaning and transformation logic, and loads analytics-ready tables into a relational database for downstream analysis.
 
   Tools: `Python` `Pandas` `SQLite` `Pathlib`
 

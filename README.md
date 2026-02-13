@@ -1,6 +1,6 @@
 # Hello, I’m Danalee! 😊👋
 - 🎓 Honours BMath in Statistics & Computer Science from the University of Waterloo.
-- 📊 Curious Data Analyst, experienced in translating data into practical insights and clearly communicating findings.
+- 📊 Data-driven analyst, experienced in translating data into practical insights and clearly communicating findings.
 
 ## Skilled in:
 `SQL` `R` `PYTHON` `EXCEL` `TABLEAU` `SAS`
